@@ -16,6 +16,8 @@ In an alternate reality, a solider named Cubix flees to an abandoned military ba
 
 -Click to place tiles and entities
 
+-Arrow Keys/WASD to move camera; hold shift to move faster
+
 -Press T to switch different alt tiles
 
 -Press E to switch from erase and place
