@@ -14,7 +14,7 @@ export class Player extends Phaser.Physics.Arcade.Sprite {
 
     this.body.allowGravity = true;
 
-    this.setCollideWorldBounds(true);
+    //this.setCollideWorldBounds(true);
     //
     // this.body.onWorldBounds = true;
 
