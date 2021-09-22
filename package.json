@@ -1,0 +1,21 @@
+{
+  "name": "Planet_Lamina",
+  "version": "1.0.0",
+  "description": "Action Platformer",
+  "main": "index.js",
+  "author": "mariofan235",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "7.0.0",
+    "babel-preset-env": "^1.7.0",
+    "copy-webpack-plugin": "6.3.2",
+    "html-webpack-plugin": "4",
+    "webpack": "4.40.1",
+    "webpack-cli": "3.3.5",
+    "webpack-dev-server": "3.11.0"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
